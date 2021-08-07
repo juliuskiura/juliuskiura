@@ -1,6 +1,4 @@
 ### Hey! Nice to see you.👋
-
-### Hi there 👋, My name is Julius Kiura
 #### Full-Stack Web Developer & Software Engineer
 ![Full-Stack Web Developer & Software Engineer](https://twitter.com/jwkiura/header_photo)
 
@@ -17,8 +15,5 @@ Skills: Python / Django / Javascript / PHP / REACT / JS / HTML / CSS / SQL / XML
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/juliuskiura)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/juliuskiura)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/juliuskiura)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/juliuskiura)  
