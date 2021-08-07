@@ -17,7 +17,7 @@ Skills and Experience:
 * XML
 * XPATH 
 
-- 🔭 I’m currently working on My Own Company cannyva.com 
+- 🔭 I’m currently working on My Own Company <a href="https://cannyva.com">Cannyva</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/juliuskiura)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/julius-k-a38b92b6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/jwkiura)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cannyva.com/)  
