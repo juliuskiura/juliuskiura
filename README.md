@@ -5,7 +5,8 @@
 I'm Julius Kiura, a well-rounded freelance full stack web developer and a software engineer from Kenya. currently I'm a Software Engineer in working on my Startup software engineering company. I'm passionate about creating tech solution and innovative technologies.
 
 Skills and Experience: 
-* :snake: Python / Django / Javascript / PHP / REACT / JS / HTML / CSS / SQL / XML / XPATH 
+* :snake: Python 
+* <a href="github.com"><i class="fab fa-github" style='font-size:30px'></i></a> Django / Javascript / PHP / REACT / JS / HTML / CSS / SQL / XML / XPATH 
 
 - 🔭 I’m currently working on My Own Company cannyva.com 
 
