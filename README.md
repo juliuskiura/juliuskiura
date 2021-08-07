@@ -13,7 +13,3 @@ Skills: Python / Django / Javascript / PHP / REACT / JS / HTML / CSS / SQL / XML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/juliuskiura&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/juliuskiura)  
-
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/juliuskiura)  
