@@ -6,11 +6,11 @@ I'm Julius Kiura, a well-rounded freelance full stack web developer and a softwa
 
 Skills and Experience: 
 * <img src='https://github.com/juliuskiura/juliuskiura/blob/main/python.gif' height="20">Python / Django
-* Javascript / React
-* PHP
-* HTML / CSS 
-* SQL
-* XML / XPATH 
+* <img src ='https://github.com/juliuskiura/juliuskiura/blob/main/javascript.gif' height="20"> Javascript / React
+* <img src='https://github.com/juliuskiura/juliuskiura/blob/main/php.png' height="20">PHP <img src='https://github.com/juliuskiura/juliuskiura/blob/main/wordpress.gif' height="20"> Wordpress
+* <img src='https://github.com/juliuskiura/juliuskiura/blob/main/html.gif' height="20"> HTML / CSS 
+* <img src='https://github.com/juliuskiura/juliuskiura/blob/main/mysql.png' height="20"> SQL <img src='https://github.com/juliuskiura/juliuskiura/blob/main/postgresql.png' height="20">
+* <img src='https://github.com/juliuskiura/juliuskiura/blob/main/xml.png' height="20"> XML / XPATH 
 
 - 🔭 I’m currently working on My Own Company <a href="https://cannyva.com">Cannyva</a>
 
