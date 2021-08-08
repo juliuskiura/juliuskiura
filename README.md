@@ -1,6 +1,6 @@
 ### Hey! Nice to see you.👋
 #### I'm a Full-Stack Web Developer & Software Engineer
-![Full-Stack Web Developer & Software Engineer](https://github.com/juliuskiura/juliuskiura/blob/main/banner-draft.jpg)
+![Full-Stack Web Developer & Software Engineer](https://github.com/juliuskiura/juliuskiura/blob/main/banner-draft.png)
 
 I'm Julius Kiura, a well-rounded freelance full stack web developer and a software engineer from Kenya. currently I'm a Software Engineer in working on my Startup software engineering company. I'm passionate about creating tech solution and innovative technologies.
 
